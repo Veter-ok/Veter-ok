@@ -18,9 +18,9 @@ Here are some ideas to get you started:
 <h3 align="center">Computer science student from Russia 🇷🇺</h3>
 
 <h2>My stats in GitHub</h2>
-<img align="left" width="47%" src="https://github-readme-stats.vercel.app/api?username=Veter-ok&show_icons=true&theme=radical"/>
-<img align="left" width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Veter-ok&layout=compact"/>
 
+![Rodion's GitHub stats](https://github-readme-stats.vercel.app/api?username=Veter-ok&show_icons=true&theme=radical)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Veter-ok&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 <img align="left" src="https://img.shields.io/badge/-Stackoverflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white"/>
