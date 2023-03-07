@@ -40,9 +40,14 @@ Here are some ideas to get you started:
 <h2>Frameworks</h2>
 
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
 
 <h2>My games</h2>
+
+![Unity](https://img.shields.io/badge/unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white)
+![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
+
 <ul>
   <li><a href="https://play.google.com/store/apps/details?id=com.FutureSimpleGames.FallingSquares">Falling Squares</a></li>
   <li><a href="https://play.google.com/store/apps/details?id=com.FutureSimpleGames.MovingSquare">Moving Squares</a></li>
