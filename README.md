@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<h1 align="center">Hi there, I'm Rodion</h1>
+<h1 align="center">Hello there, I'm Rodion</h1>
 <h3 align="center">Computer science student from Russia 🇷🇺</h3>
 
 <h2>My stats in GitHub</h2>
@@ -27,15 +27,11 @@ Here are some ideas to get you started:
 <img align="left" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white"/>
 -->
 
-![](https://komarev.com/ghpvc/?username=Veter-ok)
-
 <h2>Languages</h2>
 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 
 <h2>Frameworks</h2>
 
@@ -47,6 +43,8 @@ Here are some ideas to get you started:
 
 ![Unity](https://img.shields.io/badge/unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white)
 ![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
+
+<p>The account was banned :(</p>
 
 <ul>
   <li><a href="https://play.google.com/store/apps/details?id=com.FutureSimpleGames.FallingSquares">Falling Squares</a></li>
