@@ -13,13 +13,5 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Veter-ok&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact" />
 </p>
 
-# 🎮 My games
-<p>The account was banned :(</p>
-
-<ul>
-  <li><a href="https://play.google.com/store/apps/details?id=com.FutureSimpleGames.FallingSquares">Falling Squares</a></li>
-  <li><a href="https://play.google.com/store/apps/details?id=com.FutureSimpleGames.MovingSquare">Moving Squares</a></li>
-</ul>
-
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
